@@ -1,0 +1,87 @@
+body {
+	background-color: #f1f1f1;
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+
+.container {
+	background-color: #fff;
+}
+
+.header {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.logo {
+	width:200px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu {
+	float:right;
+	font-size: 15px;
+	margin-top: 40px;
+}
+
+.menu ul {
+	list-style: none;
+}
+
+.menu li {
+	display:inline-block;
+	padding-right: 40px;
+}
+
+.add_new_button {
+	float:left;
+}
+
+.export_button {
+	float:right;
+}
+
+.inventory_table, .dataTables_wrapper {
+	margin-top: 80px;
+}
+
+.sorting, .sorting_asc {
+	cursor: pointer;
+}
+
+.inventory_table thead tr td {
+	font-weight: bold;
+}
+
+.save_form_button {
+	width:200px;
+}
+
+.add_form_button {
+	width:200px;
+}
+
+.footer {
+	padding-top: 100px;
+	padding-bottom: 30px;
+	color:#aaa;
+}
+
+.export_logo {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 30px;	
+}
+
+.export_title {
+	text-transform: uppercase;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: -30px;
+	font-weight: bold;
+	color:#FF0000;
+
+}
